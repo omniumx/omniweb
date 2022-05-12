@@ -1,5 +1,5 @@
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/StazCherry69/stzweb">
-    <img src="https://cdn.discordapp.com/attachments/956559858776305827/972707158049300590/Glue_Ao_Ashi_-_05_64FC0CC4_002.gif" "width 200"/>
+    <img src="https://github.com/omniumx/omniweb/blob/main/%5BGlue%5D%20Ao%20Ashi%20-%2005%20%5B64FC0CC4%5D_001.gif" "width 200"/>
   </a>
 </p>
